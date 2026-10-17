@@ -17,7 +17,7 @@ void sort(int arr[],int size)
 }
 int main()
 {
-
+//小张添加的注释
     int arr[]={1,43,32,56,88,12};
     int size=sizeof(arr)/sizeof(arr[0]);
     sort(arr,size);
